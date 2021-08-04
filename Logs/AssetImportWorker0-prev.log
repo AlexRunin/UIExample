@@ -1,0 +1,616 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1110; Version 2009; 64bit' Language: 'ru' Physical Memory: 16321 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Student/AlexR/UIExample-main/UIExample
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60021
+Successfully changed project path to: D:/Student/AlexR/UIExample-main/UIExample
+D:/Student/AlexR/UIExample-main/UIExample
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 48.55 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Student/AlexR/UIExample-main/UIExample/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5450 (ID=0x68f9)
+    Vendor:   ATI
+    VRAM:     1010 MB
+    Driver:   15.201.1151.1008
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56856
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004507 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 47.58 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.006 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002235 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 46.17 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.235 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2000 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.1 MB.
+System memory in use after: 94.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2455.
+Total: 3.854800 ms (FindLiveObjects: 0.238200 ms CreateObjectMapping: 0.180800 ms MarkObjects: 3.345500 ms  DeleteObjects: 0.088800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Level3Singlton/Circle3.prefab
+  artifactKey: Guid(f645fcbc46635ce44a73c5039c8ae8f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level3Singlton/Circle3.prefab using Guid(f645fcbc46635ce44a73c5039c8ae8f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '626f596f4b6d3daeb844c29cfe93e087') in 0.065401 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Level4SO/ScoreContainer.asset
+  artifactKey: Guid(2a63b762169bc5d4c99ae82a126ffb9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level4SO/ScoreContainer.asset using Guid(2a63b762169bc5d4c99ae82a126ffb9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a471cfb73d649a312267e272a292956') in 0.005844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Level1Link/New Physics Material 2D.physicsMaterial2D
+  artifactKey: Guid(1d89dc963c96d7440ac0fe3b770725b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link/New Physics Material 2D.physicsMaterial2D using Guid(1d89dc963c96d7440ac0fe3b770725b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f9f818ec7f6b0beae57dc0d56b17ac8') in 0.005426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Level3Singlton/Square3.prefab
+  artifactKey: Guid(7f86f1df9a2abd14ab958b1a97df7ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level3Singlton/Square3.prefab using Guid(7f86f1df9a2abd14ab958b1a97df7ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c771920246633ac3939d1ea0ed23cb5b') in 0.004061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Level1Link/Square1.prefab
+  artifactKey: Guid(df8df98c789484d41a01f38edd1164d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link/Square1.prefab using Guid(df8df98c789484d41a01f38edd1164d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05284a0c298d2073904eb54096df0122') in 0.003930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Level1Link/Circle1.prefab
+  artifactKey: Guid(05971a63d38e3524b8c8c23098e1a4e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link/Circle1.prefab using Guid(05971a63d38e3524b8c8c23098e1a4e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8181847fda864d42c7023650ab04bb4f') in 0.004277 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Level4SO/Circle4.prefab
+  artifactKey: Guid(9894f3b43bc4ee3418c26b4e239ae855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level4SO/Circle4.prefab using Guid(9894f3b43bc4ee3418c26b4e239ae855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bb5101b1a1ca4903aad032106355781') in 0.005479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Level2Find/Square 2.prefab
+  artifactKey: Guid(0f3c908510590884f8df96954b04f0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level2Find/Square 2.prefab using Guid(0f3c908510590884f8df96954b04f0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cee1a4ec34751d0071d941e66a5945e') in 0.004582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Level1Link/Ground.prefab
+  artifactKey: Guid(d1e46021e33cef14c8313331406ee091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link/Ground.prefab using Guid(d1e46021e33cef14c8313331406ee091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ea9238e9b8fd509c7f0420a07be63ad') in 0.003993 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Level4SO/Square4.prefab
+  artifactKey: Guid(d728ffffdbd57e7418c9fd27fd4c3f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level4SO/Square4.prefab using Guid(d728ffffdbd57e7418c9fd27fd4c3f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa01a6b6ad1ce9b88b038d3111768895') in 0.004142 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Level2Find/Circle 2.prefab
+  artifactKey: Guid(193b96530935132479db4a20aad62d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level2Find/Circle 2.prefab using Guid(193b96530935132479db4a20aad62d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7190cd9443e6e4808cb296d957b52fa7') in 0.005037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 405.021300 seconds.
+  path: Assets/Level2Find/Level2.unity
+  artifactKey: Guid(839b8da0255b7924993917875d1c8731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level2Find/Level2.unity using Guid(839b8da0255b7924993917875d1c8731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60bd367d6aa16bc94db5da4fdf8be399') in 0.003167 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002311 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.172 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.7 MB.
+System memory in use after: 91.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2459.
+Total: 3.474300 ms (FindLiveObjects: 0.244100 ms CreateObjectMapping: 0.165000 ms MarkObjects: 2.987400 ms  DeleteObjects: 0.076200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 130.224607 seconds.
+  path: Assets/Square.png
+  artifactKey: Guid(6d7c5a6b1748f3b4da507408abcd323a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Square.png using Guid(6d7c5a6b1748f3b4da507408abcd323a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa14c4759312b2b45a0360c5e1069726') in 0.171218 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.658298 seconds.
+  path: Assets/Circle.png
+  artifactKey: Guid(9a1e1dc2309ed364f86cc55d05b7a64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Circle.png using Guid(9a1e1dc2309ed364f86cc55d05b7a64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e80032f978535b40fcee364f7affa2da') in 0.015788 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 38.527072 seconds.
+  path: Assets/Level2Find/Circle 2.prefab
+  artifactKey: Guid(193b96530935132479db4a20aad62d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level2Find/Circle 2.prefab using Guid(193b96530935132479db4a20aad62d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfb71918d09e63dcacbcd9ab14a74cde') in 0.047954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.010047 seconds.
+  path: Assets/Level2Find/Square 2.prefab
+  artifactKey: Guid(0f3c908510590884f8df96954b04f0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level2Find/Square 2.prefab using Guid(0f3c908510590884f8df96954b04f0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cb2eee931bc7190a7f89a772d30d022') in 0.013460 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002581 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.268 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1973 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2502.
+Total: 34.382200 ms (FindLiveObjects: 31.195200 ms CreateObjectMapping: 0.227100 ms MarkObjects: 2.933800 ms  DeleteObjects: 0.021500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002552 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.265 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2506.
+Total: 2.997700 ms (FindLiveObjects: 0.279800 ms CreateObjectMapping: 0.180700 ms MarkObjects: 2.516400 ms  DeleteObjects: 0.019500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002256 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.178 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2510.
+Total: 3.177700 ms (FindLiveObjects: 0.382200 ms CreateObjectMapping: 0.213700 ms MarkObjects: 2.558700 ms  DeleteObjects: 0.021700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 305.215423 seconds.
+  path: Assets/Level2Find/Circle2.cs
+  artifactKey: Guid(7b6159cafec73074bbd98e381c7fe34f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level2Find/Circle2.cs using Guid(7b6159cafec73074bbd98e381c7fe34f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f60f98f62257701026f32b1a4603897f') in 0.029205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.645823 seconds.
+  path: Assets/Level2Find/CircleSpawner2.cs
+  artifactKey: Guid(acceeb9211dcecf4eb73b5ca54f40989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level2Find/CircleSpawner2.cs using Guid(acceeb9211dcecf4eb73b5ca54f40989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eadac699b322b3e8325fa00ec4eecd13') in 0.011927 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002599 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.252 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2514.
+Total: 3.009800 ms (FindLiveObjects: 0.254600 ms CreateObjectMapping: 0.182100 ms MarkObjects: 2.552200 ms  DeleteObjects: 0.019700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 208.819330 seconds.
+  path: Assets/Level2Find/CircleSpawner2.cs
+  artifactKey: Guid(acceeb9211dcecf4eb73b5ca54f40989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level2Find/CircleSpawner2.cs using Guid(acceeb9211dcecf4eb73b5ca54f40989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ed984c1f0d3615a07ceffc0585052a') in 0.007542 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002260 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.212 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2518.
+Total: 3.630700 ms (FindLiveObjects: 0.248400 ms CreateObjectMapping: 0.176200 ms MarkObjects: 3.184000 ms  DeleteObjects: 0.020900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 500.336948 seconds.
+  path: Assets/Level2Find/UIManager2.cs
+  artifactKey: Guid(ee4b84d4b2a509f4599fa660a483c586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level2Find/UIManager2.cs using Guid(ee4b84d4b2a509f4599fa660a483c586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed3df5b939b7b4c8fc41685d1e4be5f6') in 0.006594 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 288.369056 seconds.
+  path: Assets/Level2Find/Circle2.cs
+  artifactKey: Guid(7b6159cafec73074bbd98e381c7fe34f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level2Find/Circle2.cs using Guid(7b6159cafec73074bbd98e381c7fe34f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5965b98d64ae612418e90f198e8f879b') in 0.003693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 58.753181 seconds.
+  path: Assets/Level4SO/Level4.unity
+  artifactKey: Guid(3bd28fd62167b114da12dbbafffb0cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level4SO/Level4.unity using Guid(3bd28fd62167b114da12dbbafffb0cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eb8c5904bd37a13af807fff1a41abfb') in 0.021263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.546755 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Closed Sprite Shape.prefab
+  artifactKey: Guid(c0583b4e855c74b8c82e7b9b5efb5ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Closed Sprite Shape.prefab using Guid(c0583b4e855c74b8c82e7b9b5efb5ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224dcf8af930b56afe774afd5bc52eb2') in 0.025032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Open Sprite Shape.prefab
+  artifactKey: Guid(86ae7de409eb54f619fb1328e4d42480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Open Sprite Shape.prefab using Guid(86ae7de409eb54f619fb1328e4d42480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8d26290c9ad5ec76566a53b7859f1ae') in 0.006171 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.539466 seconds.
+  path: Assets/Level4SO/Square4.prefab
+  artifactKey: Guid(d728ffffdbd57e7418c9fd27fd4c3f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level4SO/Square4.prefab using Guid(d728ffffdbd57e7418c9fd27fd4c3f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e91aa483376d854757d64c4f358d653') in 0.055412 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.840484 seconds.
+  path: Assets/Level4SO/Circle4.prefab
+  artifactKey: Guid(9894f3b43bc4ee3418c26b4e239ae855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level4SO/Circle4.prefab using Guid(9894f3b43bc4ee3418c26b4e239ae855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3acc0d1a4707ee75ba0b5ff93ac5efed') in 0.014042 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002457 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.182 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.4 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2523.
+Total: 4.937200 ms (FindLiveObjects: 1.646700 ms CreateObjectMapping: 0.211400 ms MarkObjects: 3.053600 ms  DeleteObjects: 0.023200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 163.063605 seconds.
+  path: Assets/Level4SO/CircleSpawner4.cs
+  artifactKey: Guid(f09b8a9532cad4c4b8558c4e65a45bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level4SO/CircleSpawner4.cs using Guid(f09b8a9532cad4c4b8558c4e65a45bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8274c3efa1af9fe98a6c0e6626a1157e') in 0.008140 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.251116 seconds.
+  path: Assets/Level4SO/Circle4.cs
+  artifactKey: Guid(f9abea5e79bf8ec438f3825987482cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level4SO/Circle4.cs using Guid(f9abea5e79bf8ec438f3825987482cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b3aff6e2223e8c4652532ef0e51eae') in 0.428540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.802514 seconds.
+  path: Assets/Level4SO/UIManager4.cs
+  artifactKey: Guid(5a94a9ece0f9f904f8315d779168d71d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level4SO/UIManager4.cs using Guid(5a94a9ece0f9f904f8315d779168d71d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5da4db4c38d353ebd2c92e8d4b1ad09') in 0.003665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 65.912710 seconds.
+  path: Assets/Level3Singlton/Level3.unity
+  artifactKey: Guid(833ab8507ec1e414bb73bb10cc441841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level3Singlton/Level3.unity using Guid(833ab8507ec1e414bb73bb10cc441841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e8e8b4b432d9cda4c3b95d8e3a866f4') in 0.016881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.971781 seconds.
+  path: Assets/Level3Singlton/Circle3.prefab
+  artifactKey: Guid(f645fcbc46635ce44a73c5039c8ae8f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level3Singlton/Circle3.prefab using Guid(f645fcbc46635ce44a73c5039c8ae8f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5fac87485cc1f80ffe6a62b857655fa') in 0.091504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.044187 seconds.
+  path: Assets/Level3Singlton/Square3.prefab
+  artifactKey: Guid(7f86f1df9a2abd14ab958b1a97df7ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level3Singlton/Square3.prefab using Guid(7f86f1df9a2abd14ab958b1a97df7ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '897c128bcab8214e2f77b2cdd160a64d') in 0.013440 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 42.529862 seconds.
+  path: Assets/Level3Singlton/Circle3.cs
+  artifactKey: Guid(7fe9f8de5fbdcf440b7114ca2ed39e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level3Singlton/Circle3.cs using Guid(7fe9f8de5fbdcf440b7114ca2ed39e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d680458ace09c1c622c25183cd1d1e2') in 0.002184 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003079 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.539 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.4 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2528.
+Total: 5.573000 ms (FindLiveObjects: 0.251900 ms CreateObjectMapping: 0.185600 ms MarkObjects: 5.098300 ms  DeleteObjects: 0.035700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.127511 seconds.
+  path: Assets/Level3Singlton/CircleSpawner3.cs
+  artifactKey: Guid(3b3b539a9ddf63f4781f0e71811eaa84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level3Singlton/CircleSpawner3.cs using Guid(3b3b539a9ddf63f4781f0e71811eaa84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98a4f898a2a611c381d149ca85755b5f') in 0.007457 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.574678 seconds.
+  path: Assets/Level3Singlton/UIManager3.cs
+  artifactKey: Guid(4fa619aa576e4e54ab5b4179ea99215d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level3Singlton/UIManager3.cs using Guid(4fa619aa576e4e54ab5b4179ea99215d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '681c8ddf8ab5badb841559df22927e60') in 0.004538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 310.256742 seconds.
+  path: Assets/Level1Link/Circle1.prefab
+  artifactKey: Guid(05971a63d38e3524b8c8c23098e1a4e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link/Circle1.prefab using Guid(05971a63d38e3524b8c8c23098e1a4e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f835262009867c75d2d79e266342e983') in 0.076664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.622189 seconds.
+  path: Assets/Level1Link/Square1.prefab
+  artifactKey: Guid(df8df98c789484d41a01f38edd1164d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link/Square1.prefab using Guid(df8df98c789484d41a01f38edd1164d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c1b38a1d43329d3532a52a33b0df1d') in 0.012768 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 43.978194 seconds.
+  path: Assets/Level1Link/Level1.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link/Level1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2cd429596d2960d10d21727eccc6b57') in 0.002770 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002396 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.252 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.4 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2533.
+Total: 4.133000 ms (FindLiveObjects: 0.254000 ms CreateObjectMapping: 0.187900 ms MarkObjects: 3.666200 ms  DeleteObjects: 0.023400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.416196 seconds.
+  path: Assets/Level1Link/Ground.prefab
+  artifactKey: Guid(d1e46021e33cef14c8313331406ee091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link/Ground.prefab using Guid(d1e46021e33cef14c8313331406ee091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d730af3cd67c8a48a38a025bdaac85c') in 0.075833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.559455 seconds.
+  path: Assets/Level1Link/Rotate.cs
+  artifactKey: Guid(5ae7e39f42c87e044adc1a47449e226f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link/Rotate.cs using Guid(5ae7e39f42c87e044adc1a47449e226f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47cd40f50f7948a89d2be466d2796d5f') in 0.002261 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003184 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.171 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.4 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2538.
+Total: 3.929800 ms (FindLiveObjects: 0.246500 ms CreateObjectMapping: 0.172100 ms MarkObjects: 3.490400 ms  DeleteObjects: 0.019500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.307215 seconds.
+  path: Assets/Level1Link/Sircle.cs
+  artifactKey: Guid(cb56e498dfbea5e4c8037ed23dcae2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link/Sircle.cs using Guid(cb56e498dfbea5e4c8037ed23dcae2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd305a86475521fa8b7f399635941ce27') in 0.011514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.671712 seconds.
+  path: Assets/Level1Link/UIManager.cs
+  artifactKey: Guid(6a77b9c26400f2e48a4a0690120a1301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link/UIManager.cs using Guid(6a77b9c26400f2e48a4a0690120a1301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '701c6e085b4d192e15fecffce63df30a') in 0.004856 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 42.315519 seconds.
+  path: Assets/Level1Link/CircleSpawner.cs
+  artifactKey: Guid(5f491e551d106254d8195a2d8b8e3d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link/CircleSpawner.cs using Guid(5f491e551d106254d8195a2d8b8e3d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f10c3df174de46e41ffb7be65d3fe1') in 0.005092 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002234 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.187 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.4 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2542.
+Total: 3.043400 ms (FindLiveObjects: 0.250800 ms CreateObjectMapping: 0.175500 ms MarkObjects: 2.594600 ms  DeleteObjects: 0.021300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 304.754335 seconds.
+  path: Assets/Level1Link/CircleSpawner.cs
+  artifactKey: Guid(5f491e551d106254d8195a2d8b8e3d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link/CircleSpawner.cs using Guid(5f491e551d106254d8195a2d8b8e3d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba5358de9326b05dfde1371b3d928aeb') in 0.009503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 141.170778 seconds.
+  path: Assets/Level1Link
+  artifactKey: Guid(23e6291f1401fb0439922ae9614f42f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link using Guid(23e6291f1401fb0439922ae9614f42f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f4fdf6cdea6760e0b5984d2c6d5914f') in 0.005791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.091542 seconds.
+  path: Assets/Level1Link/IsometricDiamond.png
+  artifactKey: Guid(2a5efb7287c755846a5809bc8ab485bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link/IsometricDiamond.png using Guid(2a5efb7287c755846a5809bc8ab485bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23afb12074686b8323ae7c08f48dab9e') in 0.067809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.706245 seconds.
+  path: Assets/Level1Link/HexagonFlatTop.png
+  artifactKey: Guid(7350760e95abc084895802609bb1c495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link/HexagonFlatTop.png using Guid(7350760e95abc084895802609bb1c495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfe70c58030b1c5a6d323ca8cc2ff5f7') in 0.023243 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002306 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.219 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1972 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.3 MB.
+System memory in use after: 97.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2580.
+Total: 2.991000 ms (FindLiveObjects: 0.248800 ms CreateObjectMapping: 0.255500 ms MarkObjects: 2.464300 ms  DeleteObjects: 0.021000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 205.989316 seconds.
+  path: Assets/Level1Link/Hexagon Flat-Top.prefab
+  artifactKey: Guid(dfe3f9b81ed9e5942ba3e441be091fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level1Link/Hexagon Flat-Top.prefab using Guid(dfe3f9b81ed9e5942ba3e441be091fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa617157e23b5dfd2330a05edf9752a') in 0.072531 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003020 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.216 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.3 MB.
+System memory in use after: 97.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2585.
+Total: 3.094400 ms (FindLiveObjects: 0.258700 ms CreateObjectMapping: 0.202100 ms MarkObjects: 2.610200 ms  DeleteObjects: 0.022000 ms)
+
